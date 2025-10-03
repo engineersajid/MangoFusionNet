@@ -12,9 +12,10 @@ This repository contains the implementation and validation of **MangoFusionNet**
 - Notebook for **K-Fold cross-validation experiments**.
 - Provides **statistical analysis** of model performance across multiple folds (mean, std, min, max).
 - You can open the notebook link and check the output section to view the PDF report.
-- The PDF report is also included in this repository as K-Fold-Validation.pdf.
+- The PDF report is also included in this repository as Kfold_full_report.
 - 📎 Kaggle Link: [K-Fold Validation on Kaggle](https://www.kaggle.com/username/kfold-validation)
-### 2. K-Fold Validation.ipynb
+  
+### 2. Kfold_full_report.pdf
 - This PDF contains the outcomes of K-Fold Validation.ipynb presented in a structured report format.
 - Includes multiple colored confusion matrices.
 - Also shows performance metrics such as accuracy, loss graphs, K-Fold summary metrics, and aggregate K-Fold statistics.
