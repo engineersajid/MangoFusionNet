@@ -1,6 +1,6 @@
 # 🍋 MangoFusionNet: Mango Variety Classification
 
-This repository contains the implementation, validation, and supplementary files of our proposed model **MangoFusionNet**.
+This repository contains the implementation and validation of **MangoFusionNet**, a deep learning framework for automatic mango variety classification. The model achieves 98.33% test accuracy on the MangoClassify-12 dataset, which contains 3,900 raw images of 12 mango varieties, augmented to a total of 7,200 images. The model integrates **Explainable AI (XAI)** techniques for interpretability and uses **K-Fold cross-validation** for robust performance evaluation.
 
 ## 📂 Files Included
 
